@@ -1,0 +1,5 @@
+[cms_field_label_featured]
+other = "Featured"
+
+[cms_field_label_pinned]
+other = "Pinned"
