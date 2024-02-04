@@ -14,6 +14,7 @@ name = "featured"
 label = "Featured"
 i18n = true
 required = false
+label = "Feature post in carousel"
 
 [params.decap_cms._configs.hb_field_pinned.fields.pinned]
 default = false
@@ -22,3 +23,4 @@ name = "pinned"
 label = "Pinned"
 i18n = true
 required = false
+label = "Pin post on front page and in carousel"
