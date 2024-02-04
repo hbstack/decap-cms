@@ -9,7 +9,7 @@ path = "hb/assets/css-resource"
 
 [params.decap_cms._configs.hb_field_comments.fields.comments]
 default = false
-widget = boolean
+widget = "boolean"
 name = "comments"
 label = "Allow comments on post"
 i18n = true
