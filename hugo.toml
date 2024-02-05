@@ -7,6 +7,14 @@ path = "github.com/hugomods/decap-cms"
 [params.decap_cms._preview_style_partials.hb]
 path = "hb/assets/css-resource"
 
+[params.decap_cms._configs.hb_field_comments.fields.comments]
+default = true
+widget = "boolean"
+name = "comments"
+label = "Comments"
+i18n = "duplicate"
+required = false
+
 [params.decap_cms._configs.hb_field_featured.fields.featured]
 default = false
 widget = "boolean"
