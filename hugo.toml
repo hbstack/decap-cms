@@ -14,6 +14,7 @@ name = "comments"
 label = "Comments"
 i18n = "duplicate"
 required = false
+hint = "Whether to show comments."
 
 [params.decap_cms._configs.hb_field_featured.fields.featured]
 default = false
@@ -22,6 +23,7 @@ name = "featured"
 label = "Featured"
 i18n = true
 required = false
+hint = "Featured post will be shown on homepage carousel."
 
 [params.decap_cms._configs.hb_field_pinned.fields.pinned]
 default = false
@@ -30,3 +32,4 @@ name = "pinned"
 label = "Pinned"
 i18n = true
 required = false
+hint = "Whether to pin the post on homepage and list."
