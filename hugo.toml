@@ -8,13 +8,12 @@ path = "github.com/hugomods/decap-cms"
 path = "hb/assets/css-resource"
 
 [params.decap_cms._configs.hb_field_comments.fields.comments]
-default = false
+default = true
 widget = "boolean"
 name = "comments"
 label = "Comments"
 i18n = "duplicate"
 required = false
-default = true
 
 [params.decap_cms._configs.hb_field_featured.fields.featured]
 default = false
