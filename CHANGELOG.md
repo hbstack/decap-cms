@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.1](https://github.com/hbstack/decap-cms/compare/v0.2.0...v0.2.1) (2024-02-05)
+
+
+### Bug Fixes 🐞
+
+* describe fields by hint parameter ([f564d3d](https://github.com/hbstack/decap-cms/commit/f564d3db391045b37c51a030f4bd7f26c5b1fb7a))
+
 ## [0.2.0](https://github.com/hbstack/decap-cms/compare/v0.1.0...v0.2.0) (2024-02-05)
 
 
