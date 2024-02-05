@@ -12,7 +12,7 @@ default = false
 widget = "boolean"
 name = "comments"
 label = "Comments"
-i18n = true
+i18n = "duplicate"
 required = false
 default = true
 
