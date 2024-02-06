@@ -4,6 +4,13 @@ path = "github.com/hbstack/hb"
 [[module.imports]]
 path = "github.com/hugomods/decap-cms"
 
+[params.hugopress.modules.decap-cms.hooks.head-end]
+
+[params.hugopress.modules.decap-cms.hooks.body-end]
+
+[params.decap_cms]
+_netlify_identity = false
+
 [params.decap_cms._preview_style_partials.hb]
 path = "hb/assets/css-resource"
 
