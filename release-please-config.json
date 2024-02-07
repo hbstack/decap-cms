@@ -16,7 +16,11 @@
     "packages": {
         ".": {
             "exclude-paths": [
+                "modules"
             ]
+        },
+        "modules/netlify-identity": {
+            "component": "modules/netlify-identity"
         }
     }
 }
