@@ -7,3 +7,6 @@ path = "github.com/hbstack/decap-cms"
 
 [params.decap_cms._admin]
 path = "/admin/"
+
+[params.decap_cms._netlify_identity]
+url = "https://identity.netlify.com/v1/netlify-identity-widget.js"
