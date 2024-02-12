@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.0](https://github.com/hbstack/decap-cms/compare/v0.2.1...v0.3.0) (2024-02-12)
+
+
+### Features ✨
+
+* add the hb_field_toc config for the toc field ([#12](https://github.com/hbstack/decap-cms/issues/12)) ([3517dac](https://github.com/hbstack/decap-cms/commit/3517dac8d838161bd40bd10ab8325416a1780d1c))
+
 ## [0.2.1](https://github.com/hbstack/decap-cms/compare/v0.2.0...v0.2.1) (2024-02-05)
 
 
