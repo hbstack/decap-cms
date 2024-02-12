@@ -33,3 +33,12 @@ label = "Pinned"
 i18n = true
 required = false
 hint = "Whether to pin the post on homepage and list."
+
+[params.decap_cms._configs.hb_field_toc.fields.toc]
+default = true
+widget = "boolean"
+name = "toc"
+label = "ToC (Table of Contents)"
+i18n = "duplicate"
+required = false
+hint = "Whether to show ToC (Table of Contents)."
